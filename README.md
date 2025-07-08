@@ -1,6 +1,6 @@
 # USPrivacy
 
-## The US Privacy signal has been deprecated as of January 31, 2024. We strongly advise all users of the US Privacy String to transition to the [Global Privacy Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform).
+## The US Privacy signal has been deprecated as of January 31, 2024. We strongly advise all users of the US Privacy String to transition to the [Global Privacy Protocol](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform).
 
 
 Technical specifications to support US Privacy initiatives, starting with CCPA (California Consumer Privacy Act)
